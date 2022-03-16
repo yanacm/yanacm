@@ -1,4 +1,4 @@
-## Oii! Me chamo Yana e curso ciência da computação.
+## Oii! Me chamo Yana.
 
 <div align="center">
   <a href="https://github.com/yanacm">
