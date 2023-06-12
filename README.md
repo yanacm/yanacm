@@ -6,7 +6,7 @@
 
 <br>
 <hr>
-<h3 align="center">Technologies I've learned so far 💻</h3> 
+<h3 align="center">Skills that I’ve developed 💻</h3> 
 
 <div style="max-width:68rem;" align="center">
 <div style="display: inline_block"><br>
