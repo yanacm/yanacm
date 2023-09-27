@@ -1,6 +1,6 @@
 ### Hi there! I'm Yana Costa 👋🏻
 
-##### I study computer science at the University of Fortaleza 🎓
+##### Computer science student at the University of Fortaleza 🎓
 
 
 
